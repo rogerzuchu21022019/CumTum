@@ -1,5 +1,5 @@
 /* Check import lại mấy cái router này khi import */
-const ApiUser = require("../api/Api_User");
+const ApiUser = require("../api/ApiUser");
 // const ApiProduct = require(`../api/Api.Product`);
 
 /* Được gọi từ app.js */
